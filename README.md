@@ -50,7 +50,7 @@ Your setup is complete when you can start up QuickTime, select "File > New Movie
 
 ## Remote Operation
 
-Start Unified Remote on your remote device. Click the "+" button to add remotes. You should find the QuickCapture remote in the "Media" category.
+Start Unified Remote on your remote device. Click the "+" button to add remotes. You should find the QuickCapture remote in the Media category.
 
 Tap QuickCapture to start it.
 
