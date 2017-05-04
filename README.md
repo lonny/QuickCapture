@@ -98,4 +98,4 @@ Future goals for improving this remote are:
 
 3. Button icons more suited to the size of the buttons.
 
-
+4. Make "Bring QuickTime window to front" an optional setting.
