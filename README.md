@@ -82,7 +82,7 @@ Since each filename is a unique timestamp, you can start and stop recording at w
 
 * The remote does not depend on a constant connection. You can start a recording, quit Unified Remote, come back later, start the QuickCapture remote again, and tap the stop button to stop and save.
 
-* Do not forget you are recording. This remote does not cause the QuickTime window to be brought to the front, but it still records. If you start quicktime, move a large window in front of it, then quit QuickTime via the dock, when you start a recording via the remote the QuickTime window may not be visible.
+* Do not forget you are recording. This remote does not cause the QuickTime window to be brought to the front, but it still records. If you start QuickTime, move a large window in front of it, then quit QuickTime via the dock, when you start a recording via the remote the QuickTime window may not be visible.
 
 * Warning: if you have already started a QuickTime recording manually, or by some other means, tapping "stop" may cause recording to cease and the file to be saved with the usual QuickCapture timestamp.
 
