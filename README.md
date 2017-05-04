@@ -72,7 +72,7 @@ Example: "170329_115529.mov" was saved on 2017 March 29 at 11:55:29 A.M.
 
 The order is year-month-day so the files will properly sort by date.
 
-Since each filename is a unique timestamp, you can start and stop recording at will. A new video file will be created each time.
+Since each filename is a unique timestamp, you can start and stop recording at will. A new video will be created each time.
 
 ## Things To Remember
 
