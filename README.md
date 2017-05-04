@@ -1,7 +1,7 @@
 # QuickCapture
 Simple WiFi Unified Remote control for video recording with QuickTime.
 
-(This is for cameras. It is **not** a screen recorder.)
+(For cameras. This is **not** a screen recorder.)
 
 ---
 
