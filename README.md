@@ -29,7 +29,7 @@ Once you have the remote files, [follow the instructions here](https://www.unifi
 
 ## QuickTime Setup
 
-Due to the variety of video setups and their capabilities, and other factors involved in scripting QuickTime, this remote does not attempt to "do it all". The operating philosophy is "keep it simple". So preparation involves some setting up of QuickTime.
+Preparation involves some setting up of QuickTime. This is not a limitation of QuickCapture. At some point you would have to do this anyway if you want to record via QuickTime. I'm just including these steps for completeness. 
 
 Start the QuickTime Player app.
 
@@ -60,19 +60,19 @@ Tapping the start button opens QuickTime and starts recording.
 
 Tapping the stop button will stop recording and save the file, then close QuickTime.
 
-It is that simple.
+It is that easy. The whole operating philosophy is "keep it simple".
 
-The file will be saved to your ~/Documents directory. The name will be the date and time the file was saved, in this format:
+You can do this as many times as you like. New videos will not overwrite older videos. The files will be saved to your ~/Documents directory. The name of each video will be the date and time the file was saved, in this format:
 
 `YYMMDD_HHMMSS.mov`
 
-i.e. year, month, day, then hours, minutes and seconds of the time the recording was stopped.
+year, month, day, then hours, minutes and seconds of the time the recording was stopped.
 
-Example: "170429_115529.mov" was saved on 2017 March 29 at 11:55:29 A.M.
+Example: "170329_115529.mov" was saved on 2017 March 29 at 11:55:29 A.M.
 
-The order is year-month-day so the files will properly sort chronologically.
+The order is year-month-day so the files will properly sort by date.
 
-Each filename is a unique timestamp, so you can start and stop recording at will. Each time a new file will be created.
+Since each filename is a unique timestamp, you can start and stop recording at will. A new video file will be created each time.
 
 ## Things To Remember
 
@@ -95,3 +95,7 @@ Future goals for improving this remote are:
 1. Feedback. I would like to create a feedback mechanism so the remote can display to the user whether QuickTime is currently recording, even if the remote app is stopped and started again. Information about QuickTime when it is recording has been sparse so far, though, so it may be a while before that feature is added. If I learn how to do that, QuickCapture can be further simplified to a single start/stop button.
 
 2. Figuring out how to identify recordings started by QuickCapture so the remote will not accidentally stop recordings that were started by other means.
+
+3. Button icons more suited to the size of the buttons.
+
+
